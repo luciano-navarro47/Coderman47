@@ -1,3 +1,5 @@
+
+
 👋👋¡Hola!  Mi nombre es Luciano Navarro, tengo 30 años y vivo en Florencio Varela, Provincia de Buenos Aires, Argentina. Actualmente soy un graduado de Henry en la carrera de Full Stack Web Developer y tengo 2 proyectos elaborados. En mi último proyecto aprendí más conocimiento en tecnologias como Node JS, Javascript, React, Redux, PostgreSQL, Express, TypeScript, TypeORM​, HTML, CSS Nativo y Chakra-UI. 
 
 👨‍🍳 También tengo un titulo como Chef Profesional. Con formacion educativa de 2 años de duración y cerca de 5 años de experiencia laboral en cocinas de distintos estilos culinarios. Gracias a todas estas experiencias gastronómicas pude desarrollar rapidez para realizar tareas de producción, flujo y trabajo de forma ordenada, resolución de problemas, manejo de equipamiento y a precisar constantemente la comunicación entre el equipo para lograr de forma correcta los resultados esperados en las tareas. 
